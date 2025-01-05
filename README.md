@@ -89,10 +89,3 @@ By addressing risks and model limitations, the analysis demonstrates the complex
 
 ---
 
-## Team Contributions
-
-- **Implied Volatility Calculations**: Team Member A  
-- **Delta Hedging Analysis**: Team Member B  
-- **Volatility Trade Construction**: Team Member C  
-- **Documentation**: Team Member D
-
